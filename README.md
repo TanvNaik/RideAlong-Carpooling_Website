@@ -1,6 +1,5 @@
 # RideAlong
 ## _Carpooling Website_
-***
 
 The website is a meeting point for carpoolers, both drivers and passengers. Users can 
 share and find rides through the website. 
