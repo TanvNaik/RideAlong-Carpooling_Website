@@ -11,10 +11,10 @@ and increasing the share mode of transport for people.
 
 ## Features
 
-- Users can signup and upload documents to authorize
+- Users can signup and upload documents to be verified
 - Admin can verify user documents and allow them to post rides
 - User can find rides posted by other users and request to join the ride
-- View exact ride locations in map (Mapbox)
+- Choose and View exact ride locations in map (Mapbox)
 - Payment can be done through the website (Stripe Payment Gateway)
 - Provide feedback after the ride
 
